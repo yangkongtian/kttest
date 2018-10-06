@@ -8,3 +8,4 @@ ast forward
 hello
 edit1
 edit2
+conflict
